@@ -189,65 +189,57 @@ Predict New Customer
 
 ---
 
-## 📊 Visualizations
+## 📊 Project Visualizations
 
-### Churn Distribution
+The following visualizations provide key insights into customer churn patterns and model performance.
 
-![Churn Distribution](images/ChurnDistribution.png)
+### 1. Customer Churn Distribution
 
----
+<p align="center">
+  <img src="images/Churn Distribution.png" width="800">
+</p>
 
-### Correlation Heatmap
-
-![Correlation Heatmap](images/Heatmap.png)
-
----
-
-### ROC Curve
-
-![ROC Curve](images/ROC_Curve.png)
+Shows the distribution of customers who churned versus those who stayed.
 
 ---
 
-### Hyperparameter Tuning
+### 2. Churn by Contract Type
 
-![Best K](images/Best_K.png)
+<p align="center">
+  <img src="images/ContractVsChurn.png" width="800">
+</p>
 
----
-
-### Churn by Contract Type
-
-![Contract vs Churn](images/ContractVsChurn.png)
+Illustrates how different contract types influence customer churn.
 
 ---
 
-### Churn by Gender
+### 3. Correlation Heatmap
 
-![Gender vs Churn](images/GenderVsChurn.png)
+<p align="center">
+  <img src="images/Heatmap.png" width="800">
+</p>
 
----
-
-### Churn by Internet Service
-
-![Internet Service vs Churn](images/InternetServiceVsChurn.png)
+Displays the correlation between numerical features to identify important relationships.
 
 ---
 
-### Churn by Payment Method
+### 4. ROC Curve
 
-![Payment Method vs Churn](images/PaymentMethodVsChurn.png)
+<p align="center">
+  <img src="images/ROC_Curve.png" width="800">
+</p>
 
----
-
-### Distribution of Monthly Charges
-
-![Monthly Charges](images/MonthlyCharges.png)
+Evaluates the classification model's ability to distinguish between churned and non-churned customers.
 
 ---
 
-### Distribution of Total Charges
+### 5. Hyperparameter Tuning (Best K)
 
-![Total Charges](images/TotalCharges.png)
+<p align="center">
+  <img src="images/Best_K.png" width="800">
+</p>
+
+Shows how different values of **K** affect the KNN classifier's performance, helping identify the optimal number of neighbors.
 
 ---
 
