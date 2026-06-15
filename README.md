@@ -193,39 +193,61 @@ Predict New Customer
 
 ### Churn Distribution
 
-```markdown
-![Churn Distribution](images/churn_distribution.png)
-```
+![Churn Distribution](images/ChurnDistribution.png)
+
+---
 
 ### Correlation Heatmap
 
-```markdown
-![Correlation Heatmap](images/correlation_heatmap.png)
-```
+![Correlation Heatmap](images/Heatmap.png)
 
-### Confusion Matrix
-
-```markdown
-![Confusion Matrix](images/confusion_matrix.png)
-```
+---
 
 ### ROC Curve
 
-```markdown
-![ROC Curve](images/roc_curve.png)
-```
+![ROC Curve](images/ROC_Curve.png)
+
+---
 
 ### Hyperparameter Tuning
 
-```markdown
-![Best K](images/best_k.png)
-```
+![Best K](images/Best_K.png)
 
-### Customer Segmentation
+---
 
-```markdown
-![Customer Segments](images/customer_segments.png)
-```
+### Churn by Contract Type
+
+![Contract vs Churn](images/ContractVsChurn.png)
+
+---
+
+### Churn by Gender
+
+![Gender vs Churn](images/GenderVsChurn.png)
+
+---
+
+### Churn by Internet Service
+
+![Internet Service vs Churn](images/InternetServiceVsChurn.png)
+
+---
+
+### Churn by Payment Method
+
+![Payment Method vs Churn](images/PaymentMethodVsChurn.png)
+
+---
+
+### Distribution of Monthly Charges
+
+![Monthly Charges](images/MonthlyCharges.png)
+
+---
+
+### Distribution of Total Charges
+
+![Total Charges](images/TotalCharges.png)
 
 ---
 
