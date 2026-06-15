@@ -189,6 +189,19 @@ Predict New Customer
 
 ---
 
+## 🏆 Results
+
+- ✅ Achieved **92.97% classification accuracy** after hyperparameter tuning.
+- ✅ Built an end-to-end machine learning pipeline using Scikit-learn.
+- ✅ Performed feature engineering, one-hot encoding, and feature scaling.
+- ✅ Applied Cross Validation and GridSearchCV for model optimization.
+- ✅ Reduced dimensionality using Principal Component Analysis (PCA).
+- ✅ Segmented customers into three groups using K-Means Clustering.
+- ✅ Predicted Customer Lifetime Value (CLTV) using Linear Regression.
+- ✅ Saved and reloaded the trained model using Joblib for future predictions.
+
+---
+
 ## 📊 Project Visualizations
 
 The following visualizations provide key insights into customer churn patterns and model performance.
