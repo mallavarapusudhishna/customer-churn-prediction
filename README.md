@@ -209,7 +209,7 @@ The following visualizations provide key insights into customer churn patterns a
 ### 1. Customer Churn Distribution
 
 <p align="center">
-  <img src="images/Churn Distribution.png" width="800">
+  <img src="images/ChurnDistribution.png" width="800">
 </p>
 
 Shows the distribution of customers who churned versus those who stayed.
